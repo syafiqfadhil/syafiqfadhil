@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-##### Play game with Me
+##### 🐍 Snake Animation
+![Snake animation](https://raw.githubusercontent.com/syafiqfadhil/syafiqfadhil/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/syafiqfadhil/syafiqfadhil/output/snake.svg" alt="Snake animation" />
 
 #####
