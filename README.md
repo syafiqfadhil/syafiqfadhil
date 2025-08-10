@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning **Laravel** Framework
+- I know the journey won’t be easy, but I believe that with hard work and dedication, I can achieve my goals.
 
 ##### Skills
 
@@ -38,8 +39,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
+##### Play game with Me
 
 <img src="https://raw.githubusercontent.com/syafiqfadhil/syafiqfadhil/output/snake.svg" alt="Snake animation" />
 
-###
+#####
