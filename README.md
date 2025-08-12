@@ -70,6 +70,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/syafiqfadhil/syafiqfadhil/output/snake.svg" alt="Snake animation" />
+<picture>
+  <img src="https://raw.githubusercontent.com/syafiqfadhil/syafiqfadhil/output/snake.svg" alt="Snake animation" />
+</picture>
+
 
 ###
