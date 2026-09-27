@@ -46,17 +46,6 @@
 
 ###
 
-<h2 align="left">My Recently Played Songs</h2>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31wudzv7tih57b7355falkh36qdq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wudzv7tih57b7355falkh36qdq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">Play games with me</h2>
 
